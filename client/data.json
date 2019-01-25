@@ -1,0 +1,31 @@
+{
+  "list": [
+    {
+      "taste": "c фуа-гра",
+      "details": "Печень утки разварная с артишоками.",
+      "weight": "0,5",
+      "portions": 10,
+      "gift": 1,
+      "additionalText": null,
+      "count": 10
+    },
+    {
+      "taste": "с рыбой",
+      "details": "Головы щучьи с чесноком да свежайшая сёмгушка.",
+      "weight": "2",
+      "portions": 40,
+      "gift": 2,
+      "additionalText": null,
+      "count": 2
+    },
+    {
+      "taste": "с курой",
+      "details": "Филе из цыплят с трюфелями в бульоне.",
+      "weight": "5",
+      "portions": 100,
+      "gift": 5,
+      "additionalText": "заказчик доволен",
+      "count": 0
+    }
+  ]
+}
